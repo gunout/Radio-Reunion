@@ -37,7 +37,7 @@ class ReunionRadioApp(Gtk.Window):
             "Radio Est Réunion": "http://est.reunion.fm:80/est.mp3",
             "Radio Océan Indien": "http://oi.reunion.fm:80/oceanindien.mp3",
             "Radio RCI": "http://rci.reunion.fm:80/rci.mp3",
-            "Gleaphe Radio": "https://102.35.99.37/stream",
+            "Gleaphe Radio": "https://gleaphe.duckdns.org/stream",
         }
 
         # Charger les préférences
